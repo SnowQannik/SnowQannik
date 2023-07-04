@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Uditanshu Khatri (@SnowQannik)
 - 👀 I’m interested in AI!
-- 🌱 I’m a new grad from New Jersey Institute of Technology and completed my Master's degree in Computer Science.
+- 🌱 I’m a just graduated from New Jersey Institute of Technology and completed my Master's degree in Computer Science.
 - 💞️ I’m looking for a full time role in software devlopment and expand my knowledge.
 - 📫 You can reach me at my email udkhatri23@gmail.com
 My portfolio: https://snowqannik.github.io/UditanshuKhatri/
